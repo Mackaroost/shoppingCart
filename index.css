@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+.header{
+    background-image: url('/bag-2901757_1280.png');
+    background-repeat: no-repeat;
+    background-position:center center ;
+    background-size: contain;
+    height: 15rem;
+}
+@tailwind utilities;
